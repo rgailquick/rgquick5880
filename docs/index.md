@@ -2,7 +2,7 @@
 layout: splash
 title: "Gail - CRP 5880"
 header:
-  overlay_image: docs/assets/images/cover.jpg
+  overlay_image: docs/assets/images/header.jpg
   overlay_filter: 0.3
 excerpt: "CRP5880 – Web Mapping Portfolio"
 custom_head: head/custom.html
