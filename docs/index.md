@@ -9,7 +9,7 @@ custom_head: head/custom.html
 
 ---
 
-## Welcome
+## Hello!
 
 This site contains my coursework, exercises, and final project for **CRP5880**.
 
