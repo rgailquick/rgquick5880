@@ -3,9 +3,8 @@ title: "About Me"
 permalink: /about/
 ---
 
-My name is **Your Name**.
+My name is **Gail Quick**.
 
-This site documents my work for **LA5880**, including GIS exercises, assignments, and a final project.
+This site documents my work for **CRP5880**, including GIS exercises, assignments, and a final project.
 
-I am a professor at Iowa State University, I majored in Landscape Architecture and much of my work 
-focuses on data crowdsourcing, geospatial technology and data visualization. I am originally from North Dakota. etc. etc.
+I am an undergraduate Senior at Iowa State University. I will be going into GIS as a career and want to enter the market with a web portfolio showcasing my GIS skills and experience.
