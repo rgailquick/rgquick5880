@@ -14,7 +14,7 @@ sidebar:
   - title: "Tasks"
     children:
       - title: "2a QGIS PDF"
-        url: /tasks/2a-pdf/
+        url: /assets/files/ex2a.pdf/
       - title: "2a QGIS JPG"
         url: /tasks/2a-jpg/
       - title: "2b OSM Embed"
