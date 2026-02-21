@@ -16,8 +16,8 @@ This site contains my coursework, exercises, and final project for **CRP5880**.
 Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a>.
 
 <div class="button-container">
-  <a href="/rgquick5580/tasks/" class="btn btn--primary">View Tasks</a>
-  <a href="/rgquick5580/exercises/" class="btn btn--primary">View Exercises</a>
-  <a href="/rgquick5580/assignments/" class="btn btn--primary">View Assignments</a>
-  <a href="/rgquick5580/final-project/" class="btn btn--primary">View Final Project</a>
+  <a href="/rgquick5880/tasks/" class="btn btn--primary">View Tasks</a>
+  <a href="/rgquick5880/exercises/" class="btn btn--primary">View Exercises</a>
+  <a href="/rgquick5880/assignments/" class="btn btn--primary">View Assignments</a>
+  <a href="/rgquick5880/final-project/" class="btn btn--primary">View Final Project</a>
 </div>
