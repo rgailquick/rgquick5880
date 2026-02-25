@@ -35,19 +35,19 @@ markdown: false
     vizElement.style.minWidth = '420px';
     vizElement.style.maxWidth = '100%';
     vizElement.style.width = '100%';
-    vizElement.style.minHeight = '100%';
-    vizElement.style.maxHeight = '100%';
+    vizElement.style.minHeight = '120%';
+    vizElement.style.maxHeight = '120%';
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
   } else if (divElement.offsetWidth > 500) {
     vizElement.style.minWidth = '420px';
     vizElement.style.maxWidth = '100%';
     vizElement.style.width = '100%';
-    vizElement.style.minHeight = '100%';
-    vizElement.style.maxHeight = '100%';
+    vizElement.style.minHeight = '120%';
+    vizElement.style.maxHeight = '120%';
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
   } else {
     vizElement.style.width = '100%';
-    vizElement.style.height = '100%';
+    vizElement.style.height = '120%';
   }
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
