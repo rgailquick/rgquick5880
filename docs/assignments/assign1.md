@@ -3,7 +3,7 @@ title: "Assignment 1"
 permalink: /assignments/assign1/
 markdown: false
 ---
-<div style="overflow: hidden; margin: 0 auto;">
+<div style="overflow: hidden; margin: '5%';">
   <div class='tableauPlaceholder' id='viz1771460415832' style='position: relative'>
     <noscript>
       <a href='#'>
@@ -35,19 +35,19 @@ markdown: false
     vizElement.style.minWidth = '420px';
     vizElement.style.maxWidth = '100%';
     vizElement.style.width = '100%';
-    vizElement.style.minHeight = '587px';
-    vizElement.style.maxHeight = '887px';
+    vizElement.style.minHeight = '100%';
+    vizElement.style.maxHeight = '100%';
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
   } else if (divElement.offsetWidth > 500) {
     vizElement.style.minWidth = '420px';
     vizElement.style.maxWidth = '100%';
     vizElement.style.width = '100%';
-    vizElement.style.minHeight = '587px';
-    vizElement.style.maxHeight = '887px';
+    vizElement.style.minHeight = '100%';
+    vizElement.style.maxHeight = '100%';
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
   } else {
     vizElement.style.width = '100%';
-    vizElement.style.height = '727px';
+    vizElement.style.height = '100%';
   }
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
