@@ -39,6 +39,8 @@ sidebar:
         url: /assignments/mid/
       - title: "Assignment 1"
         url: /assignments/assign1/
+      - title: "Assignment 2"
+        url: /assignments/assign2
 
   - title: "Final Project"
     children:
