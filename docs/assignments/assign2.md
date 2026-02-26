@@ -1,5 +1,5 @@
 <div style="overflow: hidden; margin: 0 auto;">
-  <div class='tableauPlaceholder' id='viz1772068866748' style='position: relative'>
+  <div class='tableauPlaceholder' id='viz1772069574881' style='position: relative'>
     <noscript>
       <a href='#'>
         <img alt='Dashboard 1' src='https://public.tableau.com/static/images/NY/NYC_17720686843700/Dashboard1/1_rss.png' style='border: none' />
@@ -25,25 +25,17 @@
 </div>
 
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1772068866748');
+  var divElement = document.getElementById('viz1772069574881');
   var vizElement = divElement.getElementsByTagName('object')[0];
   if (divElement.offsetWidth > 800) {
-    vizElement.style.minWidth = '420px';
-    vizElement.style.maxWidth = '100%';
     vizElement.style.width = '100%';
-    vizElement.style.minHeight = '587px';
-    vizElement.style.maxHeight = '887px';
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    vizElement.style.height = '827px';
   } else if (divElement.offsetWidth > 500) {
-    vizElement.style.minWidth = '420px';
-    vizElement.style.maxWidth = '100%';
     vizElement.style.width = '100%';
-    vizElement.style.minHeight = '587px';
-    vizElement.style.maxHeight = '887px';
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    vizElement.style.height = '827px';
   } else {
     vizElement.style.width = '100%';
-    vizElement.style.height = '727px';
+    vizElement.style.height = '1177px';
   }
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
