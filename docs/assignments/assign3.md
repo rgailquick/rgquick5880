@@ -1,3 +1,9 @@
+---
+title: "Assignment 3"
+permalink: /assignments/assign3/
+markdown: false
+---
+
 <div class='tableauPlaceholder' id='viz1773086919031' style='position: relative'>
   <noscript>
     <a href='#'>
