@@ -4,6 +4,12 @@ permalink: /assignments/assign4/
 markdown: false
 ---
 
+<iframe src="assign4_output.html" 
+        width="100%" 
+        height="800px" 
+        style="border:none;">
+</iframe>
+
 <!DOCTYPE html>
 <html>
 <head>
